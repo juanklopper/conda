@@ -9,6 +9,8 @@ dependencies:
   - dill
   - pandas
   - partd
-  - bokeh
   - dask
   - plotly
+  - tensorflow=2.0.0
+  - scipy
+  - xlrd
